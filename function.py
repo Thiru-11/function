@@ -7,4 +7,4 @@ for i in most_frequent:
 	else:
 		all_freq[i] = 1
 
-print ("Count of all characters in GeeksforGeeks is :\n "
+print ("Count of all characters in Assassinscreed is :\n "
